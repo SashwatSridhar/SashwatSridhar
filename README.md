@@ -49,7 +49,7 @@ An **automated triage system** using vital sign sensors and **ANN classification
   <a href="https://www.linkedin.com/in/sashwatsridhar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sashwatsridhar@gmail.com">
+  <a href="mailto:sashwatsridhar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
