@@ -77,8 +77,7 @@ An **automated triage system** using vital sign sensors and **ANN classification
 ---
 
 ### ✨ Fun Fact
-
-I once led an engineering basketball team to a **championship win** while debugging embedded systems by night. 🏀🔧
+After my friend waited **4 hours** in an ER, I channeled my frustration into building an AI triage system - turning a bad experience into tech that could help thousands! 🏥🤖
 
 ---
 
