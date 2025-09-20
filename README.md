@@ -15,11 +15,31 @@
 
 ### 🔧 Skills & Tools
 
-- 💻 **Languages**: Python, C/C++, JavaScript, Java, MATLAB, VHDL, ARM/MIPS Assembly  
-- 🔌 **Tech**: ROS2, Raspberry Pi, YOLO, OpenCV, SolidWorks, AutoCAD  
-- 🧠 **AI/ML**: Neural Networks, Object Detection, Sensor Fusion  
-- 🛠️ **Engineering**: Embedded Systems, Real-Time Systems, Digital Design  
-- 🌐 **Web**: HTML/CSS, Node.js basics
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Technologies & Frameworks**  
+![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white)
+
+**AI/ML & Embedded Systems**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4CAF50?style=flat&logo=brain&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=flat&logo=arm&logoColor=white)
+
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ---
 
